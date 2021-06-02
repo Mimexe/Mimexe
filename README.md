@@ -1,2 +1,2 @@
 Bonjour, je suis un développeur français vous pouvez voir ce que j'ai fait [ici](https://mimedevsite.web.app/logiciel.html)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mimexe&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mimexe&theme=tokyonight&count_private=true)
