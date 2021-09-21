@@ -1,1 +1,2 @@
-Bonjour, je suis un développeur français vous pouvez voir ce que j'ai fait [ici](https://mimedevsite.web.app/logiciel.html)
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Mimexe&show_icons=true)](https://github.com/Mimexe)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mimexe)](https://github.com/anuraghazra/github-readme-stats)
