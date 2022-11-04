@@ -3,8 +3,6 @@
 [![Les Stats GitHub de MimExe](https://github-readme-stats.vercel.app/api?username=Mimexe&show_icons=true)](https://github.com/Mimexe)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mimexe)](https://github.com/anuraghazra/github-readme-stats) <br /><br />
 ## Projets
-  - [TTSBot](https://discord.com/api/oauth2/authorize?client_id=992172853778722968&permissions=19926016&scope=bot%20applications.commands)<br />
-  - [DSCList](https://www.dsclist.ga)<br />
 ## Langues et Outils
 
 ### Outils
