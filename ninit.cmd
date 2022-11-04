@@ -4,7 +4,7 @@ start /wait cmd /c "git init"
 echo Initiating npm...
 start /wait cmd /c "npm init -y"
 echo Modifying package.json
-start /wait cmd /c "code ./package.json --wait"
+start /wait cmd /c "echo Modify package.json and close VSCode && code ./package.json --wait"
 echo Creating index.js
 start /wait cmd /c "echo // index.js > index.js"
 echo Setting the git remote
