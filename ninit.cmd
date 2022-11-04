@@ -28,6 +28,7 @@ start /wait cmd /c "git branch -M main"
 start /wait cmd /c "git push -u origin main"
 start /wait cmd /c "git push --set-upstream origin main"
 start /wait cmd /c "git branch --set-upstream-to=origin/main main"
+start /wait cmd /c "git pull"
 echo Opening VSCODE
 start /wait cmd /c "code ."
 echo Initialized!
