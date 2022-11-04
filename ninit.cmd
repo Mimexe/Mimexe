@@ -1,4 +1,5 @@
 @ECHO OFF
+echo Initiating...
 echo Initiating git...
 start /wait cmd /c "git init"
 echo Initiating npm...
@@ -26,3 +27,4 @@ start /wait cmd /c "git branch -M main"
 start /wait cmd /c "git push -u origin main"
 echo Opening VSCODE
 start /wait cmd /c "code ."
+echo Initialized!
