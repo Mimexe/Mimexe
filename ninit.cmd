@@ -25,6 +25,7 @@ start /wait cmd /c "git add ."
 start /wait cmd /c "git commit -a -m 'Initial'"
 start /wait cmd /c "git branch -M main"
 start /wait cmd /c "git push -u origin main"
+start /wait cmd /c "git push --set-upstream origin main"
 echo Opening VSCODE
 start /wait cmd /c "code ."
 echo Initialized!
