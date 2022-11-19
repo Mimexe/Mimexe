@@ -16,7 +16,9 @@ echo Creating MIT Licenese
 start /wait cmd /c "curl -o LICENSE https://raw.githubusercontent.com/Mimexe/Mimexe/main/default.license"
 type LICENSE
 echo Creating README.md
-start /wait cmd /c "echo # CommandesBot > README.md"
+for %%I in (.) do set CurrDirName=%%~nxI
+echo Current Folder Name: %CurrDirName%
+start /wait cmd /c "echo # %CurrDirName% > README.md"
 start /wait cmd /c "echo. >> README.md"
 echo Creating gitignore
 start /wait cmd /c "curl -o .gitignore https://raw.githubusercontent.com/Mimexe/Mimexe/main/default.gitignore"
