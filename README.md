@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 I'm a french developer of minecraft plugin, discord bot and others...  
-Member of Developer Program Member
+Member of Developer Program
 
 ## Stats
 [![Les Stats GitHub de MimExe](https://github-readme-stats.vercel.app/api?username=Mimexe&show_icons=true)](https://github.com/Mimexe)
