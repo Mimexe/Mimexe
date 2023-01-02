@@ -1,25 +1,49 @@
+[English Version](#hello-there-)
 
-# Hi, I'm Mime! 👋
+# Bonjour 👋
 
-## 🚀 About Me
-I'm a french developer of minecraft plugin, discord bot and others...  
-Member of Developer Program
+Je suis Mime et j'aime coder et même jouer a [Minecraft](https://minecraft.net)
 
-## Stats
-[![Les Stats GitHub de MimExe](https://github-readme-stats.vercel.app/api?username=Mimexe&show_icons=true)](https://github.com/Mimexe)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mimexe)](https://github.com/Mimexe)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Mimexe&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true)  
+[![Status Discord](https://lanyard.cnrad.dev/api/754038841001640099?theme=dark&animated=true&idleMessage=Actuellement%20en%20train%20de%20ne%20rien%20faire)](https://discord.com/users/754038841001640099)
 
-## 🔗 Links
-[![discord](https://badges.aleen42.com/src/discord_flat_square_dfc.svg)](https://discord.mimedev.ml)
-[![npm](https://badges.aleen42.com/src/npm_flat_square_dfc.svg)](https://www.npmjs.com/~mime4x)
-[![github](https://badges.aleen42.com/src/github_flat_square_dfc.svg)](https://github.com/Mimexe)
+## Mes Projets
 
-## 🛠 Tools and languages
-### Tools
-[![idea](https://badges.aleen42.com/src/idea_flat_square_dfc.svg)](https://www.jetbrains.com/idea/)
-[![vscode](https://badges.aleen42.com/src/visual_studio_code_flat_square_dfc.svg)](https://www.jetbrains.com/idea/)
-[![node](https://badges.aleen42.com/src/node_flat_square_dfc.svg)](https://nodejs.org)
-### Languages
-[![java](https://badges.aleen42.com/src/java_flat_square_dfc.svg)](https://java.com)
-[![javascript](https://badges.aleen42.com/src/javascript_flat_square_dfc.svg)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
-[Skript (MC Language)](https://skript-mc.fr)
+Ces temps-ci, je développe [Commandes](https://www.commandes.ga), un serveur minecraft avec pleins de petites commandes d'où le nom, bientôt une nouvelle édition de ce serveur en Moddé !
+
+## Mes Skills
+
+Je développe principalement en [JavaScript (nodejs)](https://nodejs.org/fr/) et en [Java](https://java.com).
+Je fais pas mal de [discord.js](https://discord.js.org), et j'ai récemment commencé avec [Skript](https://skript-mc.fr).  
+![Top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Mimexe&langs_count=10&theme=dark&layout=compact&hide_border=true)  
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime/?username=Mime&theme=dark&hide_border=true)](https://wakatime.com/Mimexe)
+
+## Je vous souhaite une bonne journée
+
+Et... à la prochaine 😉  
+PS: Voici mon Discord:  
+[![Discord](https://discord.com/api/guilds/994618544882995340/embed.png?style=banner3)](https://discord.gg/dTdm2Kty7f)
+
+# Hello there 👋
+
+I am Mime and I like to code and even play [Minecraft](https://minecraft.net)
+
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Mimexe&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true)  
+[![Status Discord](https://lanyard.cnrad.dev/api/754038841001640099?theme=dark&animated=true&idleMessage=Doing%20nothing)](https://discord.com/users/754038841001640099)
+
+## My Projects
+
+These days, I'm developing [Commands](https://www.commandes.ga), a minecraft server with lots of small commands, like the name, soon a new edition of this server with mods!
+
+## My Skills
+
+I develop mainly in [JavaScript (nodejs)](https://nodejs.org/en/) and [Java](https://java.com).
+I do a lot of [discord.js](https://discord.js.org), and I recently started with [Skript](https://github.com/SkriptLang/Skript/releases).  
+![Top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Mimexe&langs_count=10&theme=dark&layout=compact&hide_border=true)  
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime/?username=Mime&theme=dark&hide_border=true)](https://wakatime.com/Mimexe)
+
+## I wish you a good day
+
+And... see you next time 😉  
+PS: This is my Discord:  
+[![Discord](https://discord.com/api/guilds/994618544882995340/embed.png?style=banner3)](https://discord.gg/dTdm2Kty7f)
