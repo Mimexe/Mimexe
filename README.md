@@ -16,7 +16,6 @@ Ces temps-ci, je développe Commandes, un serveur minecraft mini-jeux !
 Je développe principalement en [JavaScript (nodejs)](https://nodejs.org/fr/) et en [Java](https://java.com).
 Je fais pas mal de [discord.js](https://discord.js.org), et j'ai récemment commencé avec [Skript](https://skript-mc.fr).  
 ![Top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Mimexe&langs_count=10&theme=dark&layout=compact&hide_border=true)  
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime/?username=Mime&theme=dark&hide_border=true)](https://wakatime.com/Mimexe)
 
 ## Je vous souhaite une bonne journée
 
@@ -40,7 +39,6 @@ These days, I'm developing [Commandes] a minigames minecraft server!
 I develop mainly in [JavaScript (nodejs)](https://nodejs.org/en/) and [Java](https://java.com).
 I do a lot of [discord.js](https://discord.js.org), and I recently started with [Skript](https://github.com/SkriptLang/Skript/releases).  
 ![Top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Mimexe&langs_count=10&theme=dark&layout=compact&hide_border=true)  
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime/?username=Mime&theme=dark&hide_border=true)](https://wakatime.com/Mimexe)
 
 ## I wish you a good day
 
