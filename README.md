@@ -22,7 +22,7 @@ Je fais pas mal de [discord.js](https://discord.js.org), et j'ai récemment comm
 
 Et... à la prochaine 😉  
 PS: Voici mon Discord:  
-[![Discord](https://discord.com/api/guilds/994618544882995340/embed.png?style=banner3)](https://discord.gg/dTdm2Kty7f)
+[![Discord](https://discord.com/api/guilds/994618544882995340/embed.png?style=banner3)](https://discord.gg/rpbz5UKHZq)
 
 # Hello there 👋
 
@@ -46,4 +46,4 @@ I do a lot of [discord.js](https://discord.js.org), and I recently started with 
 
 And... see you next time 😉  
 PS: This is my Discord:  
-[![Discord](https://discord.com/api/guilds/994618544882995340/embed.png?style=banner3)](https://discord.gg/dTdm2Kty7f)
+[![Discord](https://discord.com/api/guilds/994618544882995340/embed.png?style=banner3)](https://discord.gg/rpbz5UKHZq)
