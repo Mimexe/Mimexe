@@ -9,7 +9,7 @@ Je suis Mime et j'aime coder et même jouer a [Minecraft](https://minecraft.net)
 
 ## Mes Projets
 
-Ces temps-ci, je développe [Commandes](https://www.commandes.ga), un serveur minecraft avec pleins de petites commandes d'où le nom, bientôt une nouvelle édition de ce serveur en Moddé !
+Ces temps-ci, je développe Commandes, un serveur minecraft mini-jeux !
 
 ## Mes Skills
 
@@ -33,7 +33,7 @@ I am Mime and I like to code and even play [Minecraft](https://minecraft.net)
 
 ## My Projects
 
-These days, I'm developing [Commands](https://www.commandes.ga), a minecraft server with lots of small commands, like the name, soon a new edition of this server with mods!
+These days, I'm developing [Commandes] a minigames minecraft server!
 
 ## My Skills
 
