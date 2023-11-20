@@ -3,6 +3,7 @@
 # Bonjour 👋
 
 Je suis Mime et j'aime coder et même jouer a [Minecraft](https://minecraft.net)
+<a rel="me" href="https://mastouille.fr/@mime4x">Mastodon</a>
 
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Mimexe&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true)  
 [![Status Discord](https://lanyard.cnrad.dev/api/754038841001640099?theme=dark&animated=true&idleMessage=Actuellement%20en%20train%20de%20ne%20rien%20faire)](https://discord.com/users/754038841001640099)
