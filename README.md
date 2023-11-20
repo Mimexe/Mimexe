@@ -2,7 +2,7 @@
 
 # Bonjour 👋
 
-Je suis Mime et j'aime coder et même jouer a [Minecraft](https://minecraft.net)
+Je suis Mime et j'aime coder et même jouer a [Minecraft](https://minecraft.net)  
 <a rel="me" href="https://mastouille.fr/@mime4x">Mastodon</a>
 
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Mimexe&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true)  
