@@ -1,5 +1,4 @@
-# Salut 👋 Mon nom est Mime
-=====================
+# Salut 👋
 
 Développeur
 ---------
