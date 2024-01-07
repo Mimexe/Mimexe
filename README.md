@@ -1,48 +1,39 @@
-[English Version](#hello-there-)
+Hi 👋 My name is Mime
+=====================
 
-# Bonjour 👋
+Developer
+---------
 
-Je suis Mime et j'aime coder et même jouer a [Minecraft](https://minecraft.net)  
-<a rel="me" href="https://mastouille.fr/@mime4x">Mastodon</a>
+I know JS, Java, Skript (minecraft) and TypeScript. I use React and Next usually for my websites. I work on a minecraft server and I am french
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Mimexe&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true)  
-[![Status Discord](https://lanyard.cnrad.dev/api/754038841001640099?theme=dark&animated=true&idleMessage=Actuellement%20en%20train%20de%20ne%20rien%20faire)](https://discord.com/users/754038841001640099)
+* 🌍  I'm based in France
+* 🖥️  See my portfolio at [my website or Discord](http://www.mimedev.fr)
+* ✉️  You can contact me at [mime@mimedev.fr](mailto:mime@mimedev.fr)
+* 🚀  I'm currently working on [Commandes (minecraft server)](http://commandes.mimedev.fr)
+* 🧠  I'm learning NextJS
+* ⚡  the website and the server website is currently under development
 
-## Mes Projets
+### Skills
 
-Ces temps-ci, je développe Commandes, un serveur minecraft mini-jeux !
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+</p>
 
-## Mes Skills
+### Socials
 
-Je développe principalement en [JavaScript (nodejs)](https://nodejs.org/fr/) et en [Java](https://java.com).
-Je fais pas mal de [discord.js](https://discord.js.org), et j'ai récemment commencé avec [Skript](https://skript-mc.fr).  
-![Top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Mimexe&langs_count=10&theme=dark&layout=compact&hide_border=true)  
+<p align="left"> <a href="https://www.codepen.io/mimexe" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a> <a href="https://www.dev.to/mime" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://discord.com/users/754038841001640099" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Mimexe" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/16226164/mime" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/_mime4x_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@Mime4X" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a> <a href="https://www.twitch.tv/mimelve" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a></p>
+### Badges
 
-## Je vous souhaite une bonne journée
+<b>My GitHub Stats</b>
 
-Et... à la prochaine 😉  
-PS: Voici mon Discord:  
-[![Discord](https://discord.com/api/guilds/994618544882995340/embed.png?style=banner3)](https://discord.gg/rpbz5UKHZq)
+<a href="http://www.github.com/Mimexe"><img src="https://github-readme-stats.vercel.app/api?username=Mimexe&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Mimexe's GitHub stats" /></a>
 
-# Hello there 👋
+<a href="https://github.com/Mimexe" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mimexe&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-I am Mime and I like to code and even play [Minecraft](https://minecraft.net)
+<b>Top Repositories</b>
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Mimexe&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true)  
-[![Status Discord](https://lanyard.cnrad.dev/api/754038841001640099?theme=dark&animated=true&idleMessage=Doing%20nothing)](https://discord.com/users/754038841001640099)
+<div width="100%" align="center"><a href="https://github.com/Mimexe/EZServer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mimexe&repo=EZServer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Mimexe/HTTPStatusSearcher" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mimexe&repo=HTTPStatusSearcher&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-## My Projects
+<br /><br /><br /><br /><br />
 
-These days, I'm developing [Commandes] a minigames minecraft server!
-
-## My Skills
-
-I develop mainly in [JavaScript (nodejs)](https://nodejs.org/en/) and [Java](https://java.com).
-I do a lot of [discord.js](https://discord.js.org), and I recently started with [Skript](https://github.com/SkriptLang/Skript/releases).  
-![Top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Mimexe&langs_count=10&theme=dark&layout=compact&hide_border=true)  
-
-## I wish you a good day
-
-And... see you next time 😉  
-PS: This is my Discord:  
-[![Discord](https://discord.com/api/guilds/994618544882995340/embed.png?style=banner3)](https://discord.gg/rpbz5UKHZq)
+<div width="100%" align="center"><a href="https://github.com/Mimexe/mime-logger" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mimexe&repo=mime-logger&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Mimexe/logsimulator" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mimexe&repo=logsimulator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
