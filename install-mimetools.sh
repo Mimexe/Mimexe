@@ -16,8 +16,10 @@ sudo apt update > /dev/null 2>&1
 
 { set +x; } 2>/dev/null
 # Ask to install aliases (mkcd, .., ...)
-read -p "Do you want to install the aliases? (y/n) " -n 1 -r
+read -p "Do you want to install the aliases? (y/n) " -n 1 -r < /dev/tty
+
 echo
+
 if [[ $REPLY =~ ^[Yy]$ ]]; then
     echo "Installing aliases"
 cat <<EOF >> ~/.bashrc
