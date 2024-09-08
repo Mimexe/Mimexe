@@ -1,5 +1,3 @@
-set -x
-
 # Install repository
 { set +x; } 2>/dev/null
 echo "Downloading public key"
@@ -21,29 +19,31 @@ sudo apt update > /dev/null 2>&1
 read -p "Do you want to install the aliases? (y/n) " -n 1 -r
 echo
 if [[ $REPLY =~ ^[Yy]$ ]]; then
-    { set -x; } 2>/dev/null
     echo "Installing aliases"
-    cat << EOF >> ~/.bashrc
-    # MimeTools aliases
-    mkcd () {
-        case "$1" in
-            */..|*/../) cd -- "$1";; # that doesn't make any sense unless the directory already exists
-            /*/../*) (cd "${1%/../*}/.." && mkdir -p "./${1##*/../}") && cd -- "$1";;
-            /*) mkdir -p "$1" && cd "$1";;
-            */../*) (cd "./${1%/../*}/.." && mkdir -p "./${1##*/../}") && cd "./$1";;
-            ../*) (cd .. && mkdir -p "${1#.}") && cd "$1";;
-            *) mkdir -p "./$1" && cd "./$1";;
-        esac
-    }
-    alias ..='cd ..'
-    alias ...='cd ../..'
-    EOF
-    source ~/.bashrc
+cat <<EOF >> ~/.bashrc
+# MimeTools aliases
+mkcd () {
+case "\\\$1" in
+    */..|*/../) cd -- "\$1";;
+    /*/../*) (cd "\${1%/../*}/.." && mkdir -p "./\${1##*/../}") && cd -- "\$1";;
+    /*) mkdir -p "\$1" && cd "\$1";;
+    */../*) (cd "./\${1%/../*}/.." && mkdir -p "./\${1##*/../}") && cd "./\$1";;
+    ../*) (cd .. && mkdir -p "\${1#.}") && cd "\$1";;
+    *) mkdir -p "./\$1" && cd "./\$1";;
+esac
+}
+alias ..='cd ..'
+alias ...='cd ../..'
+# End of MimeTools aliases
+EOF
 fi
-
+{ set +x; } 2>/dev/null
 # Show these echo messages normally
 echo
 echo "Successfully installed MimeTools!"
 echo "Use it with 'apt install mcjardl'"
 echo "There is currently only mcjardl."
+if [[ $REPLY =~ ^[Yy]$ ]]; then
+    echo "Restart your terminal or run 'source ~/.bashrc' to use the aliases."
+fi
 echo
