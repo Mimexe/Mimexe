@@ -1,6 +1,6 @@
 set -x
 
-# Hide the echo commands
+# Install repository
 { set +x; } 2>/dev/null
 echo "Downloading public key"
 { set -x; } 2>/dev/null
@@ -17,6 +17,29 @@ echo "Updating apt"
 sudo apt update > /dev/null 2>&1
 
 { set +x; } 2>/dev/null
+# Ask to install aliases (mkcd, .., ...)
+read -p "Do you want to install the aliases? (y/n) " -n 1 -r
+echo
+if [[ $REPLY =~ ^[Yy]$ ]]; then
+    { set -x; } 2>/dev/null
+    echo "Installing aliases"
+    cat << EOF >> ~/.bashrc
+    # MimeTools aliases
+    mkcd () {
+        case "$1" in
+            */..|*/../) cd -- "$1";; # that doesn't make any sense unless the directory already exists
+            /*/../*) (cd "${1%/../*}/.." && mkdir -p "./${1##*/../}") && cd -- "$1";;
+            /*) mkdir -p "$1" && cd "$1";;
+            */../*) (cd "./${1%/../*}/.." && mkdir -p "./${1##*/../}") && cd "./$1";;
+            ../*) (cd .. && mkdir -p "${1#.}") && cd "$1";;
+            *) mkdir -p "./$1" && cd "./$1";;
+        esac
+    }
+    alias ..='cd ..'
+    alias ...='cd ../..'
+    EOF
+    source ~/.bashrc
+fi
 
 # Show these echo messages normally
 echo
