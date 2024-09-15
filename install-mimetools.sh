@@ -25,14 +25,8 @@ if [[ $REPLY =~ ^[Yy]$ ]]; then
 cat <<EOF >> ~/.bashrc
 # MimeTools aliases
 mkcd () {
-case "\\\$1" in
-    */..|*/../) cd -- "\$1";;
-    /*/../*) (cd "\${1%/../*}/.." && mkdir -p "./\${1##*/../}") && cd -- "\$1";;
-    /*) mkdir -p "\$1" && cd "\$1";;
-    */../*) (cd "./\${1%/../*}/.." && mkdir -p "./\${1##*/../}") && cd "./\$1";;
-    ../*) (cd .. && mkdir -p "\${1#.}") && cd "\$1";;
-    *) mkdir -p "./\$1" && cd "./\$1";;
-esac
+mkdir $1
+cd $1
 }
 alias ..='cd ..'
 alias ...='cd ../..'
