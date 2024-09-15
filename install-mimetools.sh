@@ -25,13 +25,14 @@ if [[ $REPLY =~ ^[Yy]$ ]]; then
 cat <<EOF >> ~/.bashrc
 # MimeTools aliases
 mkcd () {
-mkdir $1
-cd $1
+    mkdir -p "\$1"
+    cd "\$1"
 }
 alias ..='cd ..'
 alias ...='cd ../..'
 # End of MimeTools aliases
 EOF
+
 fi
 { set +x; } 2>/dev/null
 # Show these echo messages normally
