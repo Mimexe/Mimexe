@@ -32,8 +32,20 @@ Je maîtrise JS, Java, Skript (minecraft) et TypeScript. J'utilise généralemen
 
 <b>Principaux Dépôts</b>
 
-<div width="100%" align="center"><a href="https://github.com/Mimexe/EZServer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mimexe&repo=EZServer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=fr" /></a><a href="https://github.com/Mimexe/HTTPStatusSearcher" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mimexe&repo=HTTPStatusSearcher&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=fr" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  <a href="https://github.com/Mimexe/logsimulator" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mimexe&repo=logsimulator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=fr" />
+  </a>
+  <a href="https://github.com/Mimexe/mime-logger" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mimexe&repo=mime-logger&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=fr" />
+  </a>
+</div>
 
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/Mimexe/mime-logger" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mimexe&repo=mime-logger&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=fr" /></a><a href="https://github.com/Mimexe/logsimulator" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mimexe&repo=logsimulator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=fr" /></a></div>
+<div width="100%" align="center">
+  <a href="https://github.com/Mimexe/HTTPStatusSearcher" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mimexe&repo=HTTPStatusSearcher&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=fr" />
+  </a>
+  <a href="https://github.com/Mimexe/logsimulator-ws-server" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mimexe&repo=logsimulator-ws-server&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=fr" />
+  </a>
+</div>
