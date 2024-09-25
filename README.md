@@ -6,11 +6,10 @@ Développeur
 Je maîtrise JS, Java, Skript (minecraft) et TypeScript. J'utilise généralement React et Next pour mes sites web. Je travaille sur un serveur Minecraft et je suis français.
 
 * 🌍 Je suis basé en France
-* 🖥️ Consultez mon portfolio sur [mon site web ou Discord](http://www.mimedev.fr)
+* 🖥️ Consultez mon portfolio sur [mon site web](http://mimedev.fr/portfolio)
 * ✉️ Vous pouvez me contacter à [mime@mimedev.fr](mailto:mime@mimedev.fr)
-* 🚀 Je travaille actuellement sur [Commandes (serveur Minecraft)](http://commandes.mimedev.fr)
+* 🚀 Je travaille actuellement sur [mimedev.fr](https://mimedev.fr)
 * 🧠 J'apprends NextJS
-* ⚡ Le site web et le site du serveur sont actuellement en développement
 
 ### Compétences
 
