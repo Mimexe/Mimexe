@@ -47,3 +47,6 @@ Je maîtrise JS, Java, Skript (minecraft) et TypeScript. J'utilise généralemen
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mimexe&repo=logsimulator-ws-server&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=fr" />
   </a>
 </div>
+
+### Trophés GitHub
+![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=Mimexe&theme=onedark)
