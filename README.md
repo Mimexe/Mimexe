@@ -48,5 +48,5 @@ Je maîtrise JS, Java, Skript (minecraft) et TypeScript. J'utilise généralemen
   </a>
 </div>
 
-### Trophés GitHub
+<b>Trophées GitHub</b>
 ![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=Mimexe&theme=onedark)
