@@ -1,5 +1,6 @@
 # Salut 👋
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G81DSQ1C)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G81DSQ1C)  
+
 Développeur
 ---------
 
