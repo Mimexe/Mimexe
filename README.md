@@ -1,8 +1,8 @@
 # Hello 👋
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G81DSQ1C)  
-
-Developer
----------
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Mimexe&data=repositories,stars,followers&theme=darkmode" alt="GitHub WidgetBox">
+  <!--stole that from ShadowMikado profile, thanks-->
+</p>
 
 I know mainly Java and TypeScript. I usually use React and Next for my websites. I work on a Minecraft server and I'm French 🥖 .
 
