@@ -7,12 +7,9 @@
 I know mainly Java and TypeScript. I usually use React and Next for my websites. I work on a Minecraft server and I'm French 🥖 .
 
 * 🌍 I'm based in France
-* 🖥️ Check out my portfolio on [my website](https://mimedev.fr)
+* 🖥️ Check out my portfolio on [my website](https://mimedev.fr?utm_source=github.com&utm_medium=readme&utm_content=portfolio)
 * ✉️ You can contact me at [mime@mimedev.fr](mailto:mime@mimedev.fr) or [discord](https://discord.mimedev.fr)
-* 🚀 I'm currently working on anything 🙃(i love that emoji)
-
-> "It's not a bug, it's a feature."
-> -Any developer
+* 🚀 I'm currently working on anything 🙃
 
 ### Skills
 
